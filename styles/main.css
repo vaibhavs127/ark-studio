@@ -12,25 +12,25 @@
 {
 	margin-left: 90px;
 }
-#nav_item1
+#nav_item_1
 {
 	margin-left: 60%;
 	margin-top: -70px;
 	list-style-type: none; 
 }
-#nav_item2
+#nav_item_2
 {
 	margin-left: 67%;
 	margin-top: -17px;
 	list-style-type: none;
 }
-#nav_item3
+#nav_item_3
 {
 	margin-left: 74%;
 	margin-top: -17px;
 	list-style-type: none;
 }
-#nav_item4
+#nav_item_4
 {
 	margin-left: 80%;
 	margin-top: -17px;
@@ -121,17 +121,17 @@
     transform: scaleY(1.1);
     transition: all 0.3s;
 }
-.testimonials_wrapper
+.testimonials wrapper
 {
 	width: 100%;
 }
-.testimonials_wrapper h2
+.testimonials wrapper h2
 {
 	text-align: center;
 	padding: 30px;
 	font-size: 30px;
 }
-.testimonials_wrapper .one h3 
+.testimonials wrapper .one h3 
 {
 	margin-left: 17%;
 }
@@ -141,27 +141,27 @@
 	margin-top: -2%;
 	text-align: center;
 }
-.testimonials_wrapper .one img
+.testimonials wrapper .one img
 {
 	width: 7%;
 	margin-left: 20%;
 	margin-top: 3%;
 	border-radius: 50%;
 }
-.testimonials_wrapper .two h3 
+.testimonials wrapper .two h3 
 {
 	margin-left: 46%;
 	margin-top: -12%;
 	margin-bottom: 139px;
 }
-.testimonials_wrapper .two p 
+.testimonials wrapper .two p 
 {
 	margin-left: 1%;
 	margin-top: -11%;
 	margin-bottom: 12%;
 	text-align: center;
 }
-.testimonials_wrapper .two img
+.testimonials wrapper .two img
 {
 	width: 7%;
 	margin-top: -20%;
@@ -169,7 +169,7 @@
 	margin-left: 46%;
 	border-radius: 50%;
 }
-.testimonials_wrapper .three img
+.testimonials wrapper .three img
 {
 	width: 7%;
 	margin-top: -75%;
@@ -177,13 +177,13 @@
 	margin-left: 73%;
 	border-radius: 50%;
 }
-.testimonials_wrapper .three h3 
+.testimonials wrapper .three h3 
 {
 	margin-left: 72%;
 	margin-top: -25%;
 	margin-bottom: 10%;
 }
-.testimonials_wrapper .three p 
+.testimonials wrapper .three p 
 {
 	margin-left: 55%;
 	margin-top: -10%;
