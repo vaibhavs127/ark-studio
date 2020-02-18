@@ -1,1 +1,282 @@
-<!-- In this file you are going to write the CSS code -->
+.transparent_nav
+{
+	  width: 100%;
+	  height: 90px;
+    background-color: rgba(200,200,200,0.7);
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 9999;
+}
+.logo
+{
+	margin-left: 90px;
+}
+#nav_item1
+{
+	margin-left: 60%;
+	margin-top: -70px;
+	list-style-type: none; 
+}
+#nav_item2
+{
+	margin-left: 67%;
+	margin-top: -17px;
+	list-style-type: none;
+}
+#nav_item3
+{
+	margin-left: 74%;
+	margin-top: -17px;
+	list-style-type: none;
+}
+#nav_item4
+{
+	margin-left: 80%;
+	margin-top: -17px;
+	list-style-type: none;
+}
+.cta
+{
+	width: 100%;
+	height: 77px;
+    background-color: rgba(200,200,200,0.7);
+  	margin-top: -6%;
+  	position: absolute;
+}
+#cta_text
+{
+	margin-left: 20px;
+	font-size: 20px;
+}
+#cta_link
+{
+	font-size: 20px;
+	background: #50CCFF;
+    color: #fff;
+	float: right;
+	margin-right: 50px;
+	height: 50px;
+	margin-top: -50px;
+	text-decoration: none;
+}
+#cta_link:hover 
+{
+	background-color:#ff0000;
+}
+.lione
+{
+    margin-left: 16%;
+}
+.lione h2
+{
+    margin-left: 1%;
+}
+.lione p
+{
+    margin-left: -8%;
+}
+.litwo
+{
+    text-align: center;
+    margin-top: -21%;
+}
+.litwo h2
+{
+    margin-left: 1%;
+}
+.litwo p
+{
+    text-align: left;
+    margin-left: 41%;
+}
+.lithree
+{
+    float: right;
+    margin-top: -21%;
+    margin-right: -2%;
+}
+.lithree p
+{
+    text-align: left;
+	margin-right: 60px;
+}
+.recent_work
+{
+    width: 100%;
+    overflow: hidden;
+}
+
+.recent_work .imgone img
+{
+	display: inline-block;
+	width: 18%;
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.recent_work .imgone:hover
+{
+    transform: scaleY(1.1);
+    transition: all 0.3s;
+}
+.testimonials_wrapper
+{
+	width: 100%;
+}
+.testimonials_wrapper h2
+{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+.testimonials_wrapper .one h3 
+{
+	margin-left: 17%;
+}
+.testimonials_wrapper .one p 
+{
+	margin-left: -55%;
+	margin-top: -2%;
+	text-align: center;
+}
+.testimonials_wrapper .one img
+{
+	width: 7%;
+	margin-left: 20%;
+	margin-top: 3%;
+	border-radius: 50%;
+}
+.testimonials_wrapper .two h3 
+{
+	margin-left: 46%;
+	margin-top: -12%;
+	margin-bottom: 139px;
+}
+.testimonials_wrapper .two p 
+{
+	margin-left: 1%;
+	margin-top: -11%;
+	margin-bottom: 12%;
+	text-align: center;
+}
+.testimonials_wrapper .two img
+{
+	width: 7%;
+	margin-top: -20%;
+	margin-bottom: 178px;
+	margin-left: 46%;
+	border-radius: 50%;
+}
+.testimonials_wrapper .three img
+{
+	width: 7%;
+	margin-top: -75%;
+	margin-bottom: 340px;
+	margin-left: 73%;
+	border-radius: 50%;
+}
+.testimonials_wrapper .three h3 
+{
+	margin-left: 72%;
+	margin-top: -25%;
+	margin-bottom: 10%;
+}
+.testimonials_wrapper .three p 
+{
+	margin-left: 55%;
+	margin-top: -10%;
+	margin-bottom: 12%;
+	text-align: center;
+}
+.footer_widget
+{
+	background-color: rgb(37, 36, 36);
+	color: white;
+	height: auto;
+	width: 100%;
+}
+.footer_widget .location li
+{
+	list-style-type: none;
+	padding: 5px;
+	margin-left: 15px;	
+}
+.location h4
+{
+	margin-left: 60px;
+	color: rgb(245, 72, 72);
+	padding-top: 10%;
+	font-size: 30px;
+}
+.location img
+{
+	list-style-type: none;
+	padding: 5px;
+	margin-left: 15px;
+}
+.footer_widget .company li
+{
+	list-style-type: none;
+	padding: 5px;
+	margin-left: 255px;	
+	padding-left: 88px;
+	color: white;
+}
+.company a
+{
+	text-decoration: none;
+}
+.company h4
+{
+	margin-left: 300px;
+	color: rgb(73, 248, 132);
+	font-size: 30px;
+	padding-left: 80px;
+	margin-top: -198px;
+} 
+.footer_widget .Support li
+{
+	list-style-type: none;
+	padding: 5px;
+	margin-left: 640px;	
+	color: white;
+}
+.Support a
+{
+	text-decoration: none;
+}
+.Support h4
+{
+	margin-left: 680px;
+	color: rgb(245, 248, 81);
+	font-size: 30px;
+	margin-top: -188px;
+}
+.footer_widget .studio
+{
+	padding: 5px;
+	margin-left: 500px;	
+	color: white;
+}
+.studio p
+{
+	color: white;
+	margin-left: 490px;
+	margin-top: -3px;
+	white-space: pre-line;
+}
+.studio h4
+{
+	color: rgb(106, 81, 248);
+	margin-left: 490px;
+	font-size: 30px;
+	margin-top: -163px;
+} 
+.rights
+{
+	text-align: center;
+	padding: 5px;
+	padding-top: 80px;
+}
