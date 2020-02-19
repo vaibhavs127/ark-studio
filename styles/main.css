@@ -121,47 +121,47 @@
     transform: scaleY(1.1);
     transition: all 0.3s;
 }
-.testimonials wrapper
+.wrapper
 {
 	width: 100%;
 }
-.testimonials wrapper h2
+.wrapper h2
 {
 	text-align: center;
 	padding: 30px;
 	font-size: 30px;
 }
-.testimonials wrapper .one h3 
+.wrapper .one h3 
 {
 	margin-left: 17%;
 }
-.testimonials wrapper .one p 
+.wrapper .one p 
 {
 	margin-left: -55%;
 	margin-top: -2%;
 	text-align: center;
 }
-.testimonials wrapper .one img
+.wrapper .one img
 {
 	width: 7%;
 	margin-left: 20%;
 	margin-top: 3%;
 	border-radius: 50%;
 }
-.testimonials wrapper .two h3 
+.wrapper .two h3 
 {
 	margin-left: 46%;
 	margin-top: -12%;
 	margin-bottom: 139px;
 }
-.testimonials wrapper .two p 
+.wrapper .two p 
 {
 	margin-left: 1%;
 	margin-top: -11%;
 	margin-bottom: 12%;
 	text-align: center;
 }
-.testimonials wrapper .two img
+.wrapper .two img
 {
 	width: 7%;
 	margin-top: -20%;
@@ -169,7 +169,7 @@
 	margin-left: 46%;
 	border-radius: 50%;
 }
-.testimonials wrapper .three img
+.wrapper .three img
 {
 	width: 7%;
 	margin-top: -75%;
@@ -177,13 +177,13 @@
 	margin-left: 73%;
 	border-radius: 50%;
 }
-.testimonials wrapper .three h3 
+.wrapper .three h3 
 {
 	margin-left: 72%;
 	margin-top: -25%;
 	margin-bottom: 10%;
 }
-.testimonials wrapper .three p 
+.wrapper .three p 
 {
 	margin-left: 55%;
 	margin-top: -10%;
